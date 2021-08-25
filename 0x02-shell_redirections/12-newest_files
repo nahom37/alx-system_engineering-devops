@@ -1,1 +1,2 @@
-dgdfhdfhdgdfgdfgdf
+#!/bin/bash
+ls --sort=time | head -10
