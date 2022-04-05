@@ -53,3 +53,4 @@ Have at least one picture, at the top of the blog post
 Publish your blog post on Medium or LinkedIn
 Share your blog post at least on Twitter and LinkedIn
 When done, please fill this form
+author nah
